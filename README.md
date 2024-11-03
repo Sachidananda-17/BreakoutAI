@@ -2,6 +2,12 @@
 
 This project retrieves historical price data for popular cryptocurrencies, calculates metrics, and uses a machine learning model (LSTM) to predict future prices. The data is sourced from the CoinGecko API and is saved in an organized Excel workbook, where each cryptocurrency’s data is stored in a separate sheet.
 
+## loom link : 
+
+```
+https://www.loom.com/share/ba9991743efd479982839c5b5b5e6b6a?sid=c49990f0-247b-4cdf-8d0a-93661ba28dee
+```
+
 
 
 ## Project Overview
